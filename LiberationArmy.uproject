@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{106CD0CC-42BC-DC99-1688-E6902EAFA904}",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -8,13 +8,6 @@
 			"Name": "LiberationArmy",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "VoxelPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fde6d27188c74d7a95cc27e1344c6de1"
 		}
 	]
 }
